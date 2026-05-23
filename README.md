@@ -37,5 +37,6 @@ The goal was to transform raw workforce data into meaningful insights through da
 
 ## Files Included
 
-* Interactive Excel Dashboard (.xlsx)
-* Dashboard Screenshot (.png)
+- [Interactive Excel Dashboard (.xlsx)](https://github.com/maaz-jatu/Indian-Developer-Burnout-Dashboard/blob/main/Indian_Developer_Burnout_Dashboard_Final.xlsx)
+
+- [Dashboard Screenshot (.png)](https://github.com/maaz-jatu/Indian-Developer-Burnout-Dashboard/blob/main/Dashboard_Screenshot.png)
