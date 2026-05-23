@@ -30,8 +30,7 @@ The goal was to transform raw workforce data into meaningful insights through da
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](<img width="461" height="284" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/83b17d3c-fb5b-4fba-a20c-66f8d77fd233" />)
-
+![Dashboard Preview](https://github.com/user-attachments/assets/83b17d3c-fb5b-4fba-a20c-66f8d77fd233)
 
 
 ---
